@@ -1,0 +1,132 @@
+﻿@model IEnumerable<ALeague.Models.Ladder>
+
+@{
+    ViewBag.Title = "Ladder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    if (ViewBag.Title != null)
+    {
+        <h2 class="text-center">Hyundai A-League Ladder</h2>
+    }
+}
+
+<br />
+
+<style>
+    table {
+        border: 3px solid black;        
+    }
+
+    thead tr th {
+        background-color: white;
+        color: black;
+        font-size:large;
+        border-right: 2px solid black;
+    }
+
+    tbody tr td {
+        background-color: lightsteelblue;
+        color: black;
+        border: 2px solid black;
+        font-size:medium;
+        font-weight:600;
+    }
+
+    #getMe {
+        background-color: midnightblue;
+        color: white;
+    }
+
+    #thP {
+        border-left: 3px solid black;
+        font-size:x-large;
+    }
+
+    #thPts {
+        border-right: 3px solid black;
+    }    
+</style>
+
+
+<table class="container-fluid table">
+    <thead>
+        <tr>
+            <th id="thP">
+                #
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.clubName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.matchesPlayed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.win)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.draw)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.goalsFor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.goalsAgainst)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.goalDifference)
+            </th>
+            <th id="thPts">
+                @Html.DisplayNameFor(model => model.points)
+            </th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tbody>
+            <tr>
+                <td id="getMe">
+                    @Html.DisplayFor(modelItem => item.position)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.clubName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.matchesPlayed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.win)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.draw)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.lost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.goalsFor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.goalsAgainst)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.goalDifference)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.points)
+                </td>
+                <!-- Not involved.
+                    <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.clubID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.clubID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.clubID })
+                    </td>
+                -->
+            </tr>
+        </tbody>
+    }
+
+</table>

@@ -1,0 +1,98 @@
+﻿@model ALeague.Models.Ladder
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ladder</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.position)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.position)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.clubName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.clubName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.matchesPlayed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.matchesPlayed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.win)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.win)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.draw)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.draw)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.goalsFor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.goalsFor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.goalsAgainst)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.goalsAgainst)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.goalDifference)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.goalDifference)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.points)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.points)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.clubID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

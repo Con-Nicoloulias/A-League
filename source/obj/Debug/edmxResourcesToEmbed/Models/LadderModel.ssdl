@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LadderModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Ladder">
+    <Key>
+      <PropertyRef Name="clubID" />
+    </Key>
+    <Property Name="clubID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="position" Type="int" />
+    <Property Name="clubName" Type="varchar" MaxLength="100" />
+    <Property Name="matchesPlayed" Type="int" />
+    <Property Name="win" Type="int" />
+    <Property Name="draw" Type="int" />
+    <Property Name="lost" Type="int" />
+    <Property Name="goalsFor" Type="int" />
+    <Property Name="goalsAgainst" Type="int" />
+    <Property Name="goalDifference" Type="int" />
+    <Property Name="points" Type="int" />
+    <Property Name="thumbnail" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityContainer Name="LadderModelStoreContainer">
+    <EntitySet Name="Ladder" EntityType="Self.Ladder" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

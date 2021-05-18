@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ALeague.Site" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+      <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Bootstrap CSS -->
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+
+    <!-- Each page title can be shown -->
+    <title><%: Page.Title %></title>
+
+    <asp:ContentPlaceHolder ID="CPHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                
+                <div class="navbar-collapse collapse" id="navbarSupportedContent">
+                    <ul class="nav navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/Home.aspx">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Teams.aspx">Teams</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Results.aspx">Results</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>        
+        </header>
+
+        <main>           
+            <div class="offset-md-2 col-md-8">
+                <asp:ContentPlaceHolder ID="CPBody" runat="server">
+                     
+   
+                </asp:ContentPlaceHolder>
+            </div>                
+        </main>
+
+        
+            <br />
+            <br />
+
+        <div style="background-color: #000000">
+            <br />
+            <br />
+            <footer style="color: #FFFFFF">
+                &copy; <%: System.DateTime.Now.Year %> - ALeague
+            </footer>
+        </div>
+
+
+        
+
+    </form>
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <script src="Scripts/jquery.color-2.1.2.js"></script>
+    <script src="Scripts/popper.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+</body>
+</html>

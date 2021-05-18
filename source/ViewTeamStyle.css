@@ -1,0 +1,15 @@
+﻿.form-group {
+    font-size:large;
+    font-weight:bold;
+}
+
+p {
+    font-size:medium;
+    font-weight:400;
+}
+
+#teamIMG {
+    width: 300px;
+    height: 375px;
+    border-color: white;
+}

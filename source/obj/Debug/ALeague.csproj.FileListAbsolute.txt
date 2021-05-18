@@ -1,0 +1,388 @@
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\ALeague.dll.config
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\ALeague.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\ALeague.pdb
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\csc.exe
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\csc.exe.config
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\csc.rsp
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\csi.exe
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\csi.exe.config
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\csi.rsp
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.AppContext.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Console.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.IO.Compression.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.ValueTuple.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\vbc.exe
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\vbc.exe.config
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\vbc.rsp
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Antlr3.Runtime.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Newtonsoft.Json.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Helpers.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Mvc.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Optimization.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Razor.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.WebPages.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.WebPages.Razor.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\WebGrease.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Helpers.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Mvc.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Optimization.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.Razor.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.WebPages.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Web.WebPages.Razor.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Newtonsoft.Json.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Antlr3.Runtime.pdb
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Constandinos\source\repos\ALeague\ALeague\obj\Debug\ALeague.csprojAssemblyReference.cache
+C:\Users\Constandinos\source\repos\ALeague\ALeague\obj\Debug\ALeague.csproj.CoreCompileInputs.cache
+C:\Users\Constandinos\source\repos\ALeague\ALeague\obj\Debug\ALeague.csproj.CopyComplete
+C:\Users\Constandinos\source\repos\ALeague\ALeague\obj\Debug\ALeague.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\obj\Debug\ALeague.pdb
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Net.Http.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Constandinos\source\repos\ALeague\ALeague\bin\Newtonsoft.Json.pdb
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\ALeague.dll.config
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\ALeague.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\ALeague.pdb
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\csc.exe
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\csc.exe.config
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\csc.rsp
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\csi.exe
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\csi.exe.config
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\csi.rsp
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.AppContext.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Collections.Immutable.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Console.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Globalization.Calendars.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.IO.Compression.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Net.Http.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Net.Sockets.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Reflection.Metadata.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.ValueTuple.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Xml.XPath.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\vbc.exe
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\vbc.exe.config
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\vbc.rsp
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe.config
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Antlr3.Runtime.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\EntityFramework.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\EntityFramework.SqlServer.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Microsoft.Web.Infrastructure.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Newtonsoft.Json.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Helpers.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Mvc.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Optimization.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Razor.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.WebPages.Deployment.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.WebPages.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.WebPages.Razor.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\WebGrease.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\EntityFramework.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\EntityFramework.SqlServer.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Newtonsoft.Json.pdb
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Newtonsoft.Json.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Helpers.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Mvc.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Razor.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.WebPages.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.WebPages.Deployment.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.WebPages.Razor.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\System.Web.Optimization.xml
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\bin\Antlr3.Runtime.pdb
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\obj\Debug\ALeague.csprojAssemblyReference.cache
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\obj\Debug\ALeague.csproj.CoreCompileInputs.cache
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\obj\Debug\ALeague.csproj.CopyComplete
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\obj\Debug\ALeague.dll
+D:\SP2_2019\Web Development\Assignments\ALeague\ALeague\obj\Debug\ALeague.pdb
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\obj\Debug\ALeague.csproj.CoreCompileInputs.cache
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\obj\Debug\ALeague.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\obj\Debug\ALeague.pdb
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\ALeague.dll.config
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\ALeague.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\ALeague.pdb
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\csc.exe
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\csc.exe.config
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\csc.rsp
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\csi.exe
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\csi.exe.config
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\csi.rsp
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.AppContext.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Console.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.IO.Compression.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Net.Http.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.ValueTuple.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\vbc.exe
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\vbc.exe.config
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\vbc.rsp
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\sqlcese40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\sqlceqp40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\sqlceme40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\sqlceer40EN.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\sqlcecompact40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\sqlceca40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\sqlcese40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\sqlceqp40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\sqlceme40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\sqlceer40EN.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\sqlcecompact40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\sqlceca40.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Antlr3.Runtime.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\EntityFramework.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\EntityFramework.SqlServer.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Newtonsoft.Json.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Data.SqlServerCe.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Helpers.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Mvc.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Optimization.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Razor.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.WebPages.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.WebPages.Razor.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\WebGrease.dll
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\EntityFramework.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\EntityFramework.SqlServer.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Newtonsoft.Json.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Helpers.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Mvc.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Razor.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.WebPages.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.WebPages.Razor.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\System.Web.Optimization.xml
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\bin\Antlr3.Runtime.pdb
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\obj\Debug\ALeague.csproj.CopyComplete
+C:\Users\Constandinos\Desktop\ALeagueREAL\ALeague\ALeague\obj\Debug\ALeague.csprojAssemblyReference.cache
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\ALeague.dll.config
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\ALeague.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\ALeague.pdb
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\csc.exe
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\csc.exe.config
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\csc.rsp
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\csi.exe
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\csi.exe.config
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\csi.rsp
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.AppContext.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Collections.Immutable.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Console.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Globalization.Calendars.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.IO.Compression.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Net.Http.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Net.Sockets.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Reflection.Metadata.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.ValueTuple.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Xml.XPath.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\vbc.exe
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\vbc.exe.config
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\vbc.rsp
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\roslyn\VBCSCompiler.exe.config
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\sqlcese40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\sqlceqp40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\sqlceme40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\sqlceer40EN.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\sqlcecompact40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\sqlceca40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\sqlcese40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\sqlceqp40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\sqlceme40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\sqlceer40EN.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\sqlcecompact40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\sqlceca40.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Antlr3.Runtime.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\EntityFramework.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\EntityFramework.SqlServer.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\EntityFramework.SqlServerCompact.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Microsoft.Web.Infrastructure.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Newtonsoft.Json.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Data.SqlServerCe.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Helpers.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Mvc.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Optimization.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Razor.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.WebPages.Deployment.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.WebPages.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.WebPages.Razor.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\WebGrease.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\EntityFramework.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\EntityFramework.SqlServer.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\EntityFramework.SqlServerCompact.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Newtonsoft.Json.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Helpers.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Mvc.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Razor.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.WebPages.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.WebPages.Deployment.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.WebPages.Razor.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\System.Web.Optimization.xml
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\bin\Antlr3.Runtime.pdb
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\obj\Debug\ALeague.csprojAssemblyReference.cache
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\obj\Debug\ALeague.csproj.CoreCompileInputs.cache
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\obj\Debug\ALeague.csproj.CopyComplete
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\obj\Debug\ALeague.dll
+D:\SP2_2019\Web Development\Assignments\Mine\ALeague\ALeague\obj\Debug\ALeague.pdb

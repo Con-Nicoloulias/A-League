@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LadderModelStoreContainer" CdmEntityContainer="LadderEntities">
+    <EntitySetMapping Name="Ladders">
+      <EntityTypeMapping TypeName="LadderModel.Ladder">
+        <MappingFragment StoreEntitySet="Ladder">
+          <ScalarProperty Name="clubID" ColumnName="clubID" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="clubName" ColumnName="clubName" />
+          <ScalarProperty Name="matchesPlayed" ColumnName="matchesPlayed" />
+          <ScalarProperty Name="win" ColumnName="win" />
+          <ScalarProperty Name="draw" ColumnName="draw" />
+          <ScalarProperty Name="lost" ColumnName="lost" />
+          <ScalarProperty Name="goalsFor" ColumnName="goalsFor" />
+          <ScalarProperty Name="goalsAgainst" ColumnName="goalsAgainst" />
+          <ScalarProperty Name="goalDifference" ColumnName="goalDifference" />
+          <ScalarProperty Name="points" ColumnName="points" />
+          <ScalarProperty Name="thumbnail" ColumnName="thumbnail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

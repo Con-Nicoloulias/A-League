@@ -1,0 +1,12 @@
+﻿#TeamBorder {
+    border: 1px solid black;
+    background-color: black;
+}
+
+#Rank {
+    color: white;
+}
+
+#Club {
+    color: white;
+}

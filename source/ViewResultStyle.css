@@ -1,0 +1,22 @@
+﻿.form-group {
+    font-size:x-large;
+}
+
+label {
+    font-size:x-large;
+    font-weight:bold;
+}
+
+/* Transition2 */
+#clubIMG {
+    width: 125px;
+    height: 155px;
+    /* transition all styles */
+    transition: all 2s;
+}
+
+#clubIMG:hover {
+    width: 230px;
+    height: 285px;
+    border: 4px solid black;
+}
